@@ -1,11 +1,11 @@
 # project-spotify
-# 🎵 Spotify Dataset Analysis
+#  Spotify Dataset Analysis
 
 This project analyzes a Spotify music dataset using Python and pandas. The goal was to simulate a real-world data analysis scenario and present business-relevant insights using music data.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 We selected a dataset containing thousands of Spotify tracks along with details like:
 
@@ -22,7 +22,7 @@ Our goal was to extract meaningful insights that could help businesses in the mu
 
 ---
 
-## ❓ Questions We Answered
+## Questions We Answered
 
 1. **How many songs does each artist have?**  
    → Helps identify prolific artists or large catalogs.
@@ -41,7 +41,7 @@ Our goal was to extract meaningful insights that could help businesses in the mu
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - **Pop music** was the most dominant genre (excluding unknown values).
 - **Lil Wayne** had the most songs among all individual artists.
@@ -51,7 +51,7 @@ Our goal was to extract meaningful insights that could help businesses in the mu
 
 ---
 
-## 💡 How to Run This Project
+##  How to Run This Project
 
 1. Clone the GitHub repo.
 2. Make sure you have Python installed.
